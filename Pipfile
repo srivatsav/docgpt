@@ -16,6 +16,7 @@ langchain-openai = "*"
 fastapi = "*"
 streamlit = "*"
 beautifulsoup4 = "*"
+streamlit-chat = "*"
 
 [dev-packages]
 
