@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+black = "*"
+pinecone-client = "*"
+pypdf = "*"
+langchain-community = "*"
+load-dotenv = "*"
+langchain-pinecone = "*"
+openai = "*"
+langchain-openai = "*"
+fastapi = "*"
+streamlit = "*"
+beautifulsoup4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
