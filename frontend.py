@@ -4,7 +4,7 @@ from backend.core import run_llm
 import streamlit
 from streamlit_chat import message
 
-streamlit.header("CB AMA bot")
+streamlit.header("Connector Builder - Flow Designer AMA bot")
 
 prompt = streamlit.text_input(
     "Prompt", placeholder="Enter your prompt about connector builder here.."
