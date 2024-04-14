@@ -20,6 +20,7 @@ streamlit-chat = "*"
 tree-sitter = "*"
 esprima = "*"
 tree-sitter-languages = "*"
+typing-extensions = "*"
 
 [dev-packages]
 
