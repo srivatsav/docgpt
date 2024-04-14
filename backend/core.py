@@ -31,4 +31,4 @@ def run_llm(query: str, context: List[dict[str, Any]] = []) -> Any:
 if __name__ == "__main__":
     load_dotenv()
     pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
-    run_llm(query="Summarise the list of items for new UI adoption changes")
+    run_llm(query="Summarize different pagination strategies")

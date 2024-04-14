@@ -17,6 +17,9 @@ fastapi = "*"
 streamlit = "*"
 beautifulsoup4 = "*"
 streamlit-chat = "*"
+tree-sitter = "*"
+esprima = "*"
+tree-sitter-languages = "*"
 
 [dev-packages]
 
